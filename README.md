@@ -1,4 +1,7 @@
 # Shopno Dana (স্বপ্ন ডানা)
+<p align="center">
+  <img src="Rakib%20copy.jpg" width="200" title="Rakib Hossen">
+</p>
  মোঃ রাকিব হোসেন এটি আমার স্বপ্নের  প্রজেক্ট 
 যে কোন প্রয়োজনে কল করুনঃ  01816922921, 01343963003
 ## বৈশিষ্ট্য (Features)
